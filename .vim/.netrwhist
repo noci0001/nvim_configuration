@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/sam'
+let g:netrw_dirhist_7='/home/sam/Rust_Development/WASM/wasm-game-of-life/src'
+let g:netrw_dirhist_6='/home/sam/Desktop/rust/ultimate_rust_crash_course/examples/hello'
+let g:netrw_dirhist_5='/bin'
+let g:netrw_dirhist_4='/'
+let g:netrw_dirhist_3='/home'
+let g:netrw_dirhist_2='/home/sam'
+let g:netrw_dirhist_1='/home/sam/.gnome'
